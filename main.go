@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"gopkg.in/Clever/kayvee.v2"
+	"gopkg.in/Clever/kayvee-go.v2"
 )
 
 func redbull(user, team string) {
